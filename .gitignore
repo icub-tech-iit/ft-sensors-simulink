@@ -1,0 +1,10 @@
+*~
+~*
+build*
+*.slxc
+*.autosave
+*.mexw64
+*.mexa64
+slprj*
+cache*
+codegen*
