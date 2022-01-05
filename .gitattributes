@@ -1,7 +1,8 @@
 *.fig binary
 *.mat binary
 *.mdl binary
-*.mdlp binary
+*.mdlp binar
+*.mdlatx binary
 *.mexa64 binary
 *.mexw64 binary
 *.mexmaci64 binary
