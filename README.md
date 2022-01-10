@@ -3,7 +3,7 @@ ft-sensors-simulink
 
 This repository hosts Simulink models to interface FT sensors.
 
-Here below you can find instructions on how to use the model provided model.
+Here below you can find instructions on how to use the model provided.
 
 ## Instructions
 
