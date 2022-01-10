@@ -5,10 +5,11 @@ This repository hosts Simulink models to interface FT sensors.
 
 Here below you can find instructions on how to use the model provided.
 
+https://user-images.githubusercontent.com/3738070/148852520-bccf55c6-1674-4dba-9ee9-f3074096a648.mp4
+
 ## Instructions
 
 The following section describes how to read and write CAN messages of a FT45 sensor with Matlab/Simulink.
-
 
 ### Connect the hardware
 1. Connect the FT45 sensor to the Strain programming board through the dedicated 6-pin connector
@@ -19,6 +20,7 @@ The following section describes how to read and write CAN messages of a FT45 sen
 4. To turn on the FT sensor, connect the CAN4 to ESD-CAN USB port to your PC; a blue light on the sensor should start flashing.
 
 See the picture below for an example of the setup.
+
 ![](assets/setup.jpg)
 
 ### Launch the model
@@ -49,4 +51,5 @@ To start the stream of calibrated Force and Torque data, you must do the followi
 3. Click on the button called *Send FT Msg*
 4. Now select the radio button called *TX Start* and click the *Send FT Message* button
 5. If all operations were performed successfully, you should start seeing the stream of data on the scopes on the right side, like in the picture; if you see a constant zero, you need to first get the full scale for those quantities.
+
 ![](assets/scope.png)
