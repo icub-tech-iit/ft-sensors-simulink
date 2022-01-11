@@ -5,7 +5,7 @@ This repository hosts Simulink models to interface FT sensors.
 
 Here below you can find instructions on how to use the model provided.
 
-https://user-images.githubusercontent.com/3738070/148852520-bccf55c6-1674-4dba-9ee9-f3074096a648.mp4
+https://user-images.githubusercontent.com/38140169/148915847-2d39802b-c98d-402b-9fee-a78d4707910a.mp4
 
 ## Instructions
 
