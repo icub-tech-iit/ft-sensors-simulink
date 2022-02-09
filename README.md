@@ -53,3 +53,8 @@ To start the stream of calibrated Force and Torque data, you must do the followi
 5. If all operations were performed successfully, you should start seeing the stream of data on the scopes on the right side, like in the picture; if you see a constant zero, you need to first get the full scale for those quantities.
 
 ![](assets/scope.png)
+
+## 📚 References
+- The [CAN protocol][protocol] to communicate with the FT sensor
+
+[protocol]: https://github.com/robotology/icub-firmware/blob/master/emBODY/eBdocs/arch-arm/TSD-ICUBUNIT-canprotocol-sensorboards.docx
