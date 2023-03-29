@@ -13,7 +13,7 @@ The following section describes how to read and write CAN messages of a FT45 sen
 
 ### Connect the hardware
 1. Connect the FT45 sensor to the Strain programming board through the dedicated 6-pin connector
-2. Use the 4-pin connector on the programming board to connect to the VN1610 Vector transceiver 
+2. Use the 4-pin connector on the programming board to connect to the [VN1610 Vector](https://github.com/icub-tech-iit/vector-devices) transceiver 
    - This connection is done through a CAN4 to ESD-CAN cable
    - The cable must be provided with a USB port, to supply power to the programming board and the sensor.
 3. Connect the Vector to your PC USB port 
